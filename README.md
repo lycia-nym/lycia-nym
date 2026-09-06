@@ -20,9 +20,9 @@ Flutter · Dart · C# · Git · Supabase
 ### ✦ Quote of the day
 
 <!-- QUOTE:START -->
-> "However difficult life may seem, there is always something you can do and succeed at."
+> "A man with outward courage dares to die: a man with inner courage dares to live."
 >
-> — Stephen Hawking
+> — Lao Tzu
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>

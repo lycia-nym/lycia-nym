@@ -20,9 +20,9 @@ Flutter · Dart · C# · Git · Supabase
 ### ✦ Quote of the day
 
 <!-- QUOTE:START -->
-> "The greatest treasures are those invisible to the eye but found by the heart."
+> "High thoughts must have high language."
 >
-> — Judy Garland
+> — Aristophanes
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>

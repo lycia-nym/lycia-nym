@@ -20,9 +20,9 @@ Flutter · Dart · C# · Git · Supabase
 ### ✦ Quote of the day
 
 <!-- QUOTE:START -->
-> "High thoughts must have high language."
+> "We are all like the bright moon, we still have our darker side."
 >
-> — Aristophanes
+> — Kahlil Gibran
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>

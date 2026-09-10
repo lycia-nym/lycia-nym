@@ -20,9 +20,9 @@ Flutter · Dart · C# · Git · Supabase
 ### ✦ Quote of the day
 
 <!-- QUOTE:START -->
-> "We are all like the bright moon, we still have our darker side."
+> "Simple words, repeated daily, can change your life."
 >
-> — Kahlil Gibran
+> — Maxime Lagace
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>

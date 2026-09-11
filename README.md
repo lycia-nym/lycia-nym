@@ -20,9 +20,9 @@ Flutter · Dart · C# · Git · Supabase
 ### ✦ Quote of the day
 
 <!-- QUOTE:START -->
-> "Simple words, repeated daily, can change your life."
+> "It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose."
 >
-> — Maxime Lagace
+> — Ming-Dao Deng
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>

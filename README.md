@@ -20,9 +20,9 @@ Flutter · Dart · C# · Git · Supabase
 ### ✦ Quote of the day
 
 <!-- QUOTE:START -->
-> "It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose."
+> "He who leaves the game wins it."
 >
-> — Ming-Dao Deng
+> — Nicolas Chamfort
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>

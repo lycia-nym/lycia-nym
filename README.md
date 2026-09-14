@@ -20,9 +20,9 @@ Flutter · Dart · C# · Git · Supabase
 ### ✦ Quote of the day
 
 <!-- QUOTE:START -->
-> "Everyday is a second chance."
+> "If you spend too much time thinking about a thing, you'll never get it done."
 >
-> — Unknown
+> — Bruce Lee
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>

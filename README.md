@@ -20,9 +20,9 @@ Flutter · Dart · C# · Git · Supabase
 ### ✦ Quote of the day
 
 <!-- QUOTE:START -->
-> "Make your mind your own business."
+> "A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road."
 >
-> — Jack Butcher
+> — Henry Ward Beecher
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>

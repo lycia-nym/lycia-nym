@@ -20,9 +20,9 @@ Flutter · Dart · C# · Git · Supabase
 ### ✦ Quote of the day
 
 <!-- QUOTE:START -->
-> "Every man's work, whether it be literature or music or pictures or architecture or anything else, is always a portrait of himself."
+> "When we strive to become better than we are, everything around us becomes better, too."
 >
-> — Samuel Butler
+> — Paulo Coelho
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>

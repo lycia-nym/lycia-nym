@@ -20,9 +20,9 @@ Flutter · Dart · C# · Git · Supabase
 ### ✦ Quote of the day
 
 <!-- QUOTE:START -->
-> "When we strive to become better than we are, everything around us becomes better, too."
+> "You are what you believe in. You become that which you believe you can become."
 >
-> — Paulo Coelho
+> — Bhagavad Gita
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>

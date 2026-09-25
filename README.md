@@ -20,9 +20,9 @@ Flutter · Dart · C# · Git · Supabase
 ### ✦ Quote of the day
 
 <!-- QUOTE:START -->
-> "You are what you believe in. You become that which you believe you can become."
+> "Give so much away people insist on paying you."
 >
-> — Bhagavad Gita
+> — Jack Butcher
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>

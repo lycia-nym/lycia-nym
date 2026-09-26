@@ -20,9 +20,9 @@ Flutter · Dart · C# · Git · Supabase
 ### ✦ Quote of the day
 
 <!-- QUOTE:START -->
-> "Give so much away people insist on paying you."
+> "If you get up one more time than you fall, you will make it through."
 >
-> — Jack Butcher
+> — Chinese Proverb
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>

@@ -20,9 +20,9 @@ Flutter · Dart · C# · Git · Supabase
 ### ✦ Quote of the day
 
 <!-- QUOTE:START -->
-> "If you get up one more time than you fall, you will make it through."
+> "Don't let your learning lead to knowledge. Let your learning lead to action."
 >
-> — Chinese Proverb
+> — Jim Rohn
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>

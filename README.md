@@ -20,9 +20,9 @@ Flutter · Dart · C# · Git · Supabase
 ### ✦ Quote of the day
 
 <!-- QUOTE:START -->
-> "Don't let your learning lead to knowledge. Let your learning lead to action."
+> "One mistake does not have to rule a person's entire life."
 >
-> — Jim Rohn
+> — Joyce Meyer
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>

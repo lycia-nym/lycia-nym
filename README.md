@@ -20,9 +20,9 @@ Flutter · Dart · C# · Git · Supabase
 ### ✦ Quote of the day
 
 <!-- QUOTE:START -->
-> "Silence is a source of great strength."
+> "If you've made a mistake, it's better just to laugh at it."
 >
-> — Lao Tzu
+> — Zen Proverb
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>

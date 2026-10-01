@@ -20,9 +20,9 @@ Flutter · Dart · C# · Git · Supabase
 ### ✦ Quote of the day
 
 <!-- QUOTE:START -->
-> "If you've made a mistake, it's better just to laugh at it."
+> "When you stop questioning, you stop learning."
 >
-> — Zen Proverb
+> — Lolly Daskal
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>

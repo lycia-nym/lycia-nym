@@ -20,9 +20,9 @@ Flutter · Dart · C# · Git · Supabase
 ### ✦ Quote of the day
 
 <!-- QUOTE:START -->
-> "We are born from a quiet sleep, and we die to a calm awakening"
+> "Would you rather learn to deal with the truth now than be forced to do so later on?"
 >
-> — Zhuangzi
+> — Celestine Chua
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>

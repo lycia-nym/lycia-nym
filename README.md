@@ -20,9 +20,9 @@ Flutter · Dart · C# · Git · Supabase
 ### ✦ Quote of the day
 
 <!-- QUOTE:START -->
-> "Would you rather learn to deal with the truth now than be forced to do so later on?"
+> "Engage in those actions and thoughts that nurture the good qualities you want to have."
 >
-> — Celestine Chua
+> — Paramahansa Yogananda
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>

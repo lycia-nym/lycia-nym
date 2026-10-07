@@ -20,9 +20,9 @@ Flutter · Dart · C# · Git · Supabase
 ### ✦ Quote of the day
 
 <!-- QUOTE:START -->
-> "A gentleman is one who puts more into the world than he takes out."
+> "Be happy now, without reason - or you never will be at all."
 >
-> — George Bernard Shaw
+> — Dan Millman
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>

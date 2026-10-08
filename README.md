@@ -20,9 +20,9 @@ Flutter · Dart · C# · Git · Supabase
 ### ✦ Quote of the day
 
 <!-- QUOTE:START -->
-> "Be happy now, without reason - or you never will be at all."
+> "Success is not how high you have climbed, but how you make a positive difference to the world."
 >
-> — Dan Millman
+> — Roy T. Bennett
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>

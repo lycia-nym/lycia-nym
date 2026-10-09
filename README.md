@@ -20,9 +20,9 @@ Flutter · Dart · C# · Git · Supabase
 ### ✦ Quote of the day
 
 <!-- QUOTE:START -->
-> "Success is not how high you have climbed, but how you make a positive difference to the world."
+> "The first thing you learn in life is you're a fool. The last thing you learn in life is you're the same fool."
 >
-> — Roy T. Bennett
+> — Ray Bradbury
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>

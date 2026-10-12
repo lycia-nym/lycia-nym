@@ -20,9 +20,9 @@ Flutter · Dart · C# · Git · Supabase
 ### ✦ Quote of the day
 
 <!-- QUOTE:START -->
-> "You only live once, but if you do it right, once is enough."
+> "Those who know, do. Those that understand, teach."
 >
-> — Mae West
+> — Aristotle
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>

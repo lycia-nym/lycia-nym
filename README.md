@@ -20,9 +20,9 @@ Flutter · Dart · C# · Git · Supabase
 ### ✦ Quote of the day
 
 <!-- QUOTE:START -->
-> "Those who know, do. Those that understand, teach."
+> "Life can be the scariest and most beautiful thing simultaneously."
 >
-> — Aristotle
+> — Maxime Lagace
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>

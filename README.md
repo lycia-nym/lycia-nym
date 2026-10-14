@@ -20,9 +20,9 @@ Flutter · Dart · C# · Git · Supabase
 ### ✦ Quote of the day
 
 <!-- QUOTE:START -->
-> "Life can be the scariest and most beautiful thing simultaneously."
+> "Genius is one percent inspiration and ninety-nine percent perspiration."
 >
-> — Maxime Lagace
+> — Thomas Edison
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>

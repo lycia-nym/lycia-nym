@@ -20,9 +20,9 @@ Flutter · Dart · C# · Git · Supabase
 ### ✦ Quote of the day
 
 <!-- QUOTE:START -->
-> "Genius is one percent inspiration and ninety-nine percent perspiration."
+> "Everything eaten is killed. Every meal is a sacrifice."
 >
-> — Thomas Edison
+> — Adi Da Samraj
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>

@@ -20,9 +20,9 @@ Flutter · Dart · C# · Git · Supabase
 ### ✦ Quote of the day
 
 <!-- QUOTE:START -->
-> "Everything eaten is killed. Every meal is a sacrifice."
+> "As we first succeed, we will find ourselves in new situations, facing new problems."
 >
-> — Adi Da Samraj
+> — Ryan Holiday
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>

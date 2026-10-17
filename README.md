@@ -20,9 +20,9 @@ Flutter · Dart · C# · Git · Supabase
 ### ✦ Quote of the day
 
 <!-- QUOTE:START -->
-> "As we first succeed, we will find ourselves in new situations, facing new problems."
+> "You've got to get up every morning with determination if you're going to go to bed with satisfaction."
 >
-> — Ryan Holiday
+> — George Lorimer
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>

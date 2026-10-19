@@ -20,9 +20,9 @@ Flutter · Dart · C# · Git · Supabase
 ### ✦ Quote of the day
 
 <!-- QUOTE:START -->
-> "The greater the impact you want to make, the greater your influence needs to be."
+> "The secret of change is to focus all your energy not on fighting the old, but on building the new."
 >
-> — Lolly Daskal
+> — Colin R. Davis
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>

@@ -20,9 +20,9 @@ Flutter · Dart · C# · Git · Supabase
 ### ✦ Quote of the day
 
 <!-- QUOTE:START -->
-> "The secret of change is to focus all your energy not on fighting the old, but on building the new."
+> "Success is about doing the right thing, not about doing everything right."
 >
-> — Colin R. Davis
+> — Gary Keller
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>

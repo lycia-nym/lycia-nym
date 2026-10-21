@@ -20,9 +20,9 @@ Flutter · Dart · C# · Git · Supabase
 ### ✦ Quote of the day
 
 <!-- QUOTE:START -->
-> "Success is about doing the right thing, not about doing everything right."
+> "Each day your life grows a day shorter. Make every move count."
 >
-> — Gary Keller
+> — Ming-Dao Deng
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>

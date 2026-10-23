@@ -20,9 +20,9 @@ Flutter · Dart · C# · Git · Supabase
 ### ✦ Quote of the day
 
 <!-- QUOTE:START -->
-> "The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one."
+> "If someone betrays you once, it's their fault; if they betray you twice, it's your fault."
 >
-> — Mark Twain
+> — Eleanor Roosevelt
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>

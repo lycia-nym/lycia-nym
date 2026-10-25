@@ -20,9 +20,9 @@ Flutter · Dart · C# · Git · Supabase
 ### ✦ Quote of the day
 
 <!-- QUOTE:START -->
-> "There are more quarrels smothered by just shutting your mouth, and holding it shut, than by all the wisdom in the world."
+> "The wiser you get, the less you care to look like a fool."
 >
-> — Henry Ward Beecher
+> — Maxime Lagace
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>

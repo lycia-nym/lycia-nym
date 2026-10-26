@@ -20,9 +20,9 @@ Flutter · Dart · C# · Git · Supabase
 ### ✦ Quote of the day
 
 <!-- QUOTE:START -->
-> "The wiser you get, the less you care to look like a fool."
+> "Loving thoughts and actions are clearly beneficial for our physical and mental health."
 >
-> — Maxime Lagace
+> — Dalai Lama
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>

@@ -20,9 +20,9 @@ Flutter · Dart · C# · Git · Supabase
 ### ✦ Quote of the day
 
 <!-- QUOTE:START -->
-> "What we dwell on is who we become."
+> "The more reasons you have for achieving your goal, the more determined you will become."
 >
-> — Oprah Winfrey
+> — Brian Tracy
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>

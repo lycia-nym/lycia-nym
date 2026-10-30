@@ -20,9 +20,9 @@ Flutter · Dart · C# · Git · Supabase
 ### ✦ Quote of the day
 
 <!-- QUOTE:START -->
-> "The more reasons you have for achieving your goal, the more determined you will become."
+> "Distant water does not put out a nearby fire."
 >
-> — Brian Tracy
+> — Chinese Proverb
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>

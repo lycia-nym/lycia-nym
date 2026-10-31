@@ -20,9 +20,9 @@ Flutter · Dart · C# · Git · Supabase
 ### ✦ Quote of the day
 
 <!-- QUOTE:START -->
-> "Distant water does not put out a nearby fire."
+> "When you believe in a thing, believe in it all the way, implicitly and unquestionable."
 >
-> — Chinese Proverb
+> — Walt Disney
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>

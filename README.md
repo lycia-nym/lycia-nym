@@ -20,9 +20,9 @@ Flutter · Dart · C# · Git · Supabase
 ### ✦ Quote of the day
 
 <!-- QUOTE:START -->
-> "When you believe in a thing, believe in it all the way, implicitly and unquestionable."
+> "When something comes from within, when it is a part of you, you have no choice but to live it, to express it."
 >
-> — Walt Disney
+> — Kamal Ravikant
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>

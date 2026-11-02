@@ -20,9 +20,9 @@ Flutter · Dart · C# · Git · Supabase
 ### ✦ Quote of the day
 
 <!-- QUOTE:START -->
-> "When something comes from within, when it is a part of you, you have no choice but to live it, to express it."
+> "If you want others to be happy, practice compassion. If you want to be happy, practice compassion."
 >
-> — Kamal Ravikant
+> — Dalai Lama
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>

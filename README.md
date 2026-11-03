@@ -20,9 +20,9 @@ Flutter · Dart · C# · Git · Supabase
 ### ✦ Quote of the day
 
 <!-- QUOTE:START -->
-> "If you want others to be happy, practice compassion. If you want to be happy, practice compassion."
+> "When the time is gone, you can never get it back."
 >
-> — Dalai Lama
+> — Stephen King
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>

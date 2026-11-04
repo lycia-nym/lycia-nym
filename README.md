@@ -20,9 +20,9 @@ Flutter · Dart · C# · Git · Supabase
 ### ✦ Quote of the day
 
 <!-- QUOTE:START -->
-> "When the time is gone, you can never get it back."
+> "What the eye doesn't see and the mind doesn't know, doesn't exist."
 >
-> — Stephen King
+> — D. H. Lawrence
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>

@@ -20,9 +20,9 @@ Flutter · Dart · C# · Git · Supabase
 ### ✦ Quote of the day
 
 <!-- QUOTE:START -->
-> "What the eye doesn't see and the mind doesn't know, doesn't exist."
+> "Debt is the slavery of the free."
 >
-> — D. H. Lawrence
+> — Publilius Syrus
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>

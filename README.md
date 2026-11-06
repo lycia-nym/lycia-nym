@@ -20,9 +20,9 @@ Flutter · Dart · C# · Git · Supabase
 ### ✦ Quote of the day
 
 <!-- QUOTE:START -->
-> "Debt is the slavery of the free."
+> "Your mind is infinite, it's your doubts that are limiting."
 >
-> — Publilius Syrus
+> — Robert Kiyosaki
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>

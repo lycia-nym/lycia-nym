@@ -3,6 +3,7 @@
 #### Little about myself
 
 Just a junior with modest knowledge of software development. Having worked on backend and mobile projects, with Android being the field I'm most familiar with.
+
 Seeking wonder and learning new things are what keep me going. Below are some technologies I've worked with.
 
 **Android**
@@ -14,7 +15,7 @@ Java · Spring Boot · Node.js · REST APIs · PostgreSQL · MySQL
 **Other**
 Flutter · Dart · C# · Git · Supabase
 
-<sub>Subject to change</sub>
+<sup><sub><i>🌱 Subject to change.</i></sub></sup>
 
 ### Thanks for stopping by. Have a good day! 🌷
 

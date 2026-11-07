@@ -1,12 +1,9 @@
-# Hi, thanks for stopping by! 🌱🌸☕
+# Welcome to my code basement, where bugs are born and code gets built 💻
 
-### Background
+## Little about myself
 
-Developer with experience in **backend and Android development**, currently focused on **Android development with Kotlin**, while still enjoying backend work when needed.
-
-Striving to **sharpen skills and grow**, while applying that knowledge to **better understand and work with AI**.
-
-### Tech Stack
+Just a junior with modest knowledge of software development. Having worked on backend and mobile projects, with Android being the field I'm most familiar with.
+Seeking wonder and learning new things are what keep me going. Below are some technologies I've worked with.
 
 **Android**
 Kotlin · Jetpack Compose · Coroutines · Flow · MVVM · Hilt · Room · Firebase
@@ -16,6 +13,10 @@ Java · Spring Boot · Node.js · REST APIs · PostgreSQL · MySQL
 
 **Other**
 Flutter · Dart · C# · Git · Supabase
+
+<sub>Subject to change</sub>
+
+# Thanks for stopping by. Have a good day! 🌷
 
 ### ✦ Quote of the day
 

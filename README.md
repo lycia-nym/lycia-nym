@@ -1,4 +1,4 @@
-# 💻 Welcome to my Code Basement
+#  Welcome to my Code Basement 💻
 *Where bugs are born and code gets built.*
 
 ## A little about me
@@ -18,7 +18,7 @@ Seeking wonder and learning new things are what keep me going. Below are some te
 **Other**
 `Flutter` · `Dart` · `C#` · `Git` · `Supabase`
 
-<sup><sub><i>🌱 Subject to change</i></sub></sup>
+<sup><sub><i>Subject to change 🌱</i></sub></sup>
 
 
 ### ✦ Quote of the day
@@ -33,4 +33,4 @@ Seeking wonder and learning new things are what keep me going. Below are some te
 
 ---
 
-### 🌷 Thanks for stopping by. Have a good day!
+### Thanks for stopping by. Have a good day! 🌷 

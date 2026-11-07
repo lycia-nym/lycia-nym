@@ -1,23 +1,28 @@
-### Welcome to my code basement, where bugs are born and code gets built 💻
+# 💻 Welcome to my Code Basement
+*Where bugs are born and code gets built.*
 
-#### Little about myself
+## A little about me
 
 Just a junior with modest knowledge of software development. Having worked on backend and mobile projects, with Android being the field I'm most familiar with.
 
 Seeking wonder and learning new things are what keep me going. Below are some technologies I've worked with.
 
+## Tech Stack
+
 **Android**
-Kotlin · Jetpack Compose · Coroutines · Flow · MVVM · Hilt · Room · Firebase
+`Kotlin` · `Jetpack Compose` · `Coroutines` · `Flow` · `MVVM` · `Hilt` · `Room` · `Firebase`
 
 **Backend**
-Java · Spring Boot · Node.js · REST APIs · PostgreSQL · MySQL
+`Java` · `Spring Boot` · `Node.js` · `REST APIs` · `PostgreSQL` · `MySQL`
 
 **Other**
-Flutter · Dart · C# · Git · Supabase
+`Flutter` · `Dart` · `C#` · `Git` · `Supabase`
 
-<sup><sub><i>🌱 Subject to change.</i></sub></sup>
+<sup><sub><i>🌱 Subject to change</i></sub></sup>
 
-### Thanks for stopping by. Have a good day! 🌷
+---
+
+### 🌷 Thanks for stopping by. Have a good day!
 
 ### ✦ Quote of the day
 

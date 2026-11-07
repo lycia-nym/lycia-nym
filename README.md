@@ -20,9 +20,6 @@ Seeking wonder and learning new things are what keep me going. Below are some te
 
 <sup><sub><i>🌱 Subject to change</i></sub></sup>
 
----
-
-### 🌷 Thanks for stopping by. Have a good day!
 
 ### ✦ Quote of the day
 
@@ -33,3 +30,7 @@ Seeking wonder and learning new things are what keep me going. Below are some te
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>
+
+---
+
+### 🌷 Thanks for stopping by. Have a good day!

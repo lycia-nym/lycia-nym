@@ -1,6 +1,6 @@
-# Welcome to my code basement, where bugs are born and code gets built 💻
+### Welcome to my code basement, where bugs are born and code gets built 💻
 
-## Little about myself
+#### Little about myself
 
 Just a junior with modest knowledge of software development. Having worked on backend and mobile projects, with Android being the field I'm most familiar with.
 Seeking wonder and learning new things are what keep me going. Below are some technologies I've worked with.
@@ -16,7 +16,7 @@ Flutter · Dart · C# · Git · Supabase
 
 <sub>Subject to change</sub>
 
-# Thanks for stopping by. Have a good day! 🌷
+### Thanks for stopping by. Have a good day! 🌷
 
 ### ✦ Quote of the day
 

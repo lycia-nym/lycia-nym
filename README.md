@@ -26,9 +26,3 @@ Flutter · Dart · C# · Git · Supabase
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>
-
-### Contact
-
-Got an interesting **Android, backend, or software development opportunity**? Feel free to reach out.
-
-📧 [liam.onwork@gmail.com](mailto:liam.onwork@gmail.com)

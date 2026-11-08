@@ -24,9 +24,9 @@ Seeking wonder and learning new things are what keep me going. Below are some te
 ### ✦ Quote of the day
 
 <!-- QUOTE:START -->
-> "The things I carry are my thoughts. That's it. They are the only weight. My thoughts determine whether I am free and light or burdened."
+> "People spend too much time doing and not enough time thinking about what they should be doing."
 >
-> — Kamal Ravikant
+> — Naval Ravikant
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>

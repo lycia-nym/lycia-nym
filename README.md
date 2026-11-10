@@ -24,9 +24,9 @@ Seeking wonder and learning new things are what keep me going. Below are some te
 ### ✦ Quote of the day
 
 <!-- QUOTE:START -->
-> "It isn't what you have or who you are or where you are or what you are doing that makes you happy or unhappy. It is what you think about it."
+> "Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward."
 >
-> — Dale Carnegie
+> — Colin Powell
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>

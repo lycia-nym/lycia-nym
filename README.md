@@ -24,9 +24,9 @@ Seeking wonder and learning new things are what keep me going. Below are some te
 ### ✦ Quote of the day
 
 <!-- QUOTE:START -->
-> "Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward."
+> "A random act of kindness, no matter how small, can make a tremendous impact on someone else's life."
 >
-> — Colin Powell
+> — Roy T. Bennett
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>

@@ -24,9 +24,9 @@ Seeking wonder and learning new things are what keep me going. Below are some te
 ### ✦ Quote of the day
 
 <!-- QUOTE:START -->
-> "A random act of kindness, no matter how small, can make a tremendous impact on someone else's life."
+> "In the practice of tolerance, one's enemy is the best teacher."
 >
-> — Roy T. Bennett
+> — Dalai Lama
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>

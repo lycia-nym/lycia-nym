@@ -24,9 +24,9 @@ Seeking wonder and learning new things are what keep me going. Below are some te
 ### ✦ Quote of the day
 
 <!-- QUOTE:START -->
-> "In the practice of tolerance, one's enemy is the best teacher."
+> "An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question."
 >
-> — Dalai Lama
+> — John Tukey
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>

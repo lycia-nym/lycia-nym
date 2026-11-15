@@ -24,9 +24,9 @@ Seeking wonder and learning new things are what keep me going. Below are some te
 ### ✦ Quote of the day
 
 <!-- QUOTE:START -->
-> "There is nothing more frightful than ignorance in action."
+> "The weak can never forgive. Forgiveness is the attribute of the strong."
 >
-> — Johann Wolfgang von Goethe
+> — Mahatma Gandhi
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>

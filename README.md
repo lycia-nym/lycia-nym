@@ -24,9 +24,9 @@ Seeking wonder and learning new things are what keep me going. Below are some te
 ### ✦ Quote of the day
 
 <!-- QUOTE:START -->
-> "The weak can never forgive. Forgiveness is the attribute of the strong."
+> "I dream my painting and I paint my dream."
 >
-> — Mahatma Gandhi
+> — Vincent van Gogh
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>

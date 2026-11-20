@@ -24,9 +24,9 @@ Seeking wonder and learning new things are what keep me going. Below are some te
 ### ✦ Quote of the day
 
 <!-- QUOTE:START -->
-> "You are never too old to become younger."
+> "Never waste a minute of your precious life thinking about people you don't like."
 >
-> — Mae West
+> — Celestine Chua
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>

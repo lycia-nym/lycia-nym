@@ -24,9 +24,9 @@ Seeking wonder and learning new things are what keep me going. Below are some te
 ### ✦ Quote of the day
 
 <!-- QUOTE:START -->
-> "Never waste a minute of your precious life thinking about people you don't like."
+> "To avoid criticism, do nothing, say nothing, and be nothing."
 >
-> — Celestine Chua
+> — Elbert Hubbard
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>

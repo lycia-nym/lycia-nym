@@ -24,9 +24,9 @@ Seeking wonder and learning new things are what keep me going. Below are some te
 ### ✦ Quote of the day
 
 <!-- QUOTE:START -->
-> "To avoid criticism, do nothing, say nothing, and be nothing."
+> "Peace is not the absence of conflict, but the ability to cope with it."
 >
-> — Elbert Hubbard
+> — Unknown
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>

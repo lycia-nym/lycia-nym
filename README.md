@@ -24,9 +24,9 @@ Seeking wonder and learning new things are what keep me going. Below are some te
 ### ✦ Quote of the day
 
 <!-- QUOTE:START -->
-> "Have a vision. Be demanding."
+> "The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way."
 >
-> — Colin Powell
+> — Robert Kiyosaki
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>

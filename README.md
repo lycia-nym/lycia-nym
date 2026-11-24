@@ -1,11 +1,11 @@
 #  Welcome to my Code Basement 💻
 *Where bugs are born and code gets built.*
 
-## A little about me
+## A quick intro
 
 Just a junior with modest knowledge of software development. Having worked on backend and mobile projects, with Android being the field I'm most familiar with.
 
-Seeking wonder and learning new things are what keep me going. Below are some technologies I've worked with.
+Seeking experiences and exploring new things are what keep me motivated. Below are some technologies I've worked with.
 
 ## Tech Stack
 
@@ -32,5 +32,3 @@ Seeking wonder and learning new things are what keep me going. Below are some te
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>
 
 ---
-
-### Thanks for stopping by. Have a good day! 🌷 

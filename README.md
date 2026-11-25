@@ -24,9 +24,9 @@ Seeking experiences and exploring new things are what keep me motivated. Below a
 ### ✦ Quote of the day
 
 <!-- QUOTE:START -->
-> "The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way."
+> "We have to live life with a sense of urgency so not a minute is wasted."
 >
-> — Robert Kiyosaki
+> — Les Brown
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>

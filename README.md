@@ -24,9 +24,9 @@ Seeking experiences and exploring new things are what keep me motivated. Below a
 ### ✦ Quote of the day
 
 <!-- QUOTE:START -->
-> "We have to live life with a sense of urgency so not a minute is wasted."
+> "Keep your eyes on the stars, but remember to keep your feet on the ground."
 >
-> — Les Brown
+> — Theodore Roosevelt
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>

@@ -24,9 +24,9 @@ Seeking experiences and exploring new things are what keep me motivated. Below a
 ### ✦ Quote of the day
 
 <!-- QUOTE:START -->
-> "Keep your eyes on the stars, but remember to keep your feet on the ground."
+> "It takes half your life before you discover life is a do-it-yourself project."
 >
-> — Theodore Roosevelt
+> — Napoleon Hill
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>

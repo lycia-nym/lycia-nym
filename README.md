@@ -24,9 +24,9 @@ Seeking experiences and exploring new things are what keep me motivated. Below a
 ### ✦ Quote of the day
 
 <!-- QUOTE:START -->
-> "It takes half your life before you discover life is a do-it-yourself project."
+> "High thoughts must have high language."
 >
-> — Napoleon Hill
+> — Aristophanes
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>
